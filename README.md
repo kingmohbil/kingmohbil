@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Photoshop and more about React**.
 
-- 👨‍💻 My Portfolio Website [https://google.com](https://google.com).
+- 👨‍💻 My Portfolio Website [[https://google.com](https://kingmohbil.github.io/personal-portfolio/)]([https://google.com](https://kingmohbil.github.io/personal-portfolio/)).
 
 - 💬 Ask me about **JavaScript, Nodejs**.
 
