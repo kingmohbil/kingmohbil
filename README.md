@@ -2,13 +2,11 @@
           
 <h2 align="left">Hi 👋! My name is Mohammad and I'm a Software and AI engineer, from Jordan</h2>
 
-- 🌱 I’m currently learning **Photoshop and more about React**.
-
 - 👨‍💻 My Portfolio Website  [https://kingmohbil.github.io/personal-portfolio/](https://kingmohbil.github.io/personal-portfolio/).
 
-- 💬 Ask me about **JavaScript, Nodejs**.
+- 💬 Ask me about **AI, TypeScript, Nodejs**.
 
-- 📫 How to reach me **kingwazzan@gmail.com**.
+- 📫 How to reach me **mohammad.alwazzan.dev@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
